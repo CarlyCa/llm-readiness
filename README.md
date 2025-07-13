@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LLM-SEO Web Application
 
 A professional web interface for the LLM-SEO analysis tool that allows users to audit their websites for Large Language Model readiness.
@@ -184,3 +185,6 @@ To add a new check:
 Each check function should return a dict with:
 - `passed`: Boolean indicating if the check passed
 - `message`: Descriptive message about the result
+=======
+# llm-readiness
+>>>>>>> 33409048832c80ccba8e97833a1a0485f3a182d8
