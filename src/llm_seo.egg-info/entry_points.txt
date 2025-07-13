@@ -1,0 +1,2 @@
+[console_scripts]
+llm-seo = llm_seo.cli:audit
